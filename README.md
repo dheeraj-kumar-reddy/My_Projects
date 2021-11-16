@@ -1,0 +1,3 @@
+# Simple_password_generator
+Hey folks!! This program/small project will help you to generate n number of easy strength passwords(with letters)/easy strength passwords(with digits)/medium passwords/strong passwords...
+Run the code using any python IDE etc..
